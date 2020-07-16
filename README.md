@@ -623,7 +623,7 @@ Ruby on Rail is a server-side application framework written in Ruby. It emerged 
 
 [Video: Build a real estate platform in Ruby on Rails](https://www.youtube.com/watch?v=qvGGz-2WHpU)
 
-[Video: Build an instagram clone in Ruby on Rails](https://www.youtube.com/watch?v=dqjF3C9A-Yg)3
+[Video: Build an instagram clone in Ruby on Rails](https://www.youtube.com/watch?v=dqjF3C9A-Yg)
 
 [Book: Ruby on Rails notes for professionals](https://goalkicker.com/RubyOnRailsBook/RubyOnRailsNotesForProfessionals.pdf)
 
@@ -815,66 +815,167 @@ D3.js is an extremely powerful data visualisation library for javascript. Use it
 Machine learning a is a relatively new field and is also very popular. You can build all kinds of cool things from a chat bot to a program that identifies cats from dogs. Here are some tutorials and frameworks that will aid you in creating your dream program.
 
 ### General machine learning
+Learn the basic concepts of machine learning.
+
+
 ### Tensorflow
+Learn Google's tensorflow to aid with machine learning projects.
+
+
 ### Scikit-learn
+A brilliant machine learning library for Python.
+
+
 ### Keras
+Write neural networks in python.
+
+
 ### Pytorch
+Facebook's deep learning library used for applications such as computer vision and natural language processing.
+
+
 ### Numpy
+Manage statistics and numbers in Numpy for Python.
+
 
 # Game programming
 Arguably what brings a lot of recreational programmers to programming is the idea of creating their very own game! Luckily, most of the hard work has been done already and almost anybody can create a game, both 3d and 2d! Here are some engines and libraries to help you build a game!
 
-### Unity
-### Unreal engine
-### Godot
-### Pygame
-### Phaser
+## Unity
+Unity is a game engine developed that can be used to build 3d and 2d games and can be deployed to mobile, desktop, VR and the web.
+
+
+## Unreal engine
+Unreal Engine is a game engine developed by Epic Games and is the most advanced real-time 3d game engines.
+
+
+## Godot
+Godot is a 2D and 3D cross platform game engine. It was initially developed for compaines in Latin America but can now create games for PC, mobile and web platforms.
+
+
+## Pygame
+Pygame is a very simple library in Python for creating 2D games, it is the best place to start as a game developer and can be used to make very interactive and usable games.
+
+
+## Phaser
+Phaser is similar to Pygame and can be used to create 2D games that run in a website using Javascript.
+
+
+## Piston
+Piston is similar to Pygame however it is for Rust and is considerably faster. You can use Piston to make very good games and is great if you want to write games that are perhaps a bit more professional. You can make both 3D and 2D games in it however it is not as powerful as an engine such as Unreal, Unity or Godot.
+
 
 # Mobile development
 Mobile phones are everywhere and the majority of people on planet earth use them. Many companies have apps, many independent organisations have apps and it has become a critical and important industry to be involved in.
 
-### Flutter
-### Android
-### Ionic
-### React native
-### iOS
+## Flutter
+Flutter is an incredibly useful platform to build both Android and iOS apps that run quickly. It was written by Google and uses Dart, a language with syntax similar to Javascript. Flutter is an alterantive to writing different applications for different platforms.
+
+
+## Android
+Using Android Studio and Java or Kotlin to create native Android apps is perhaps the de-facto way of doing it however you can't write apps for iOS using this.
+
+
+## Ionic
+Ionic is a framework that allows the creation of applications on both Android and iOS. It uses Javascript. You can optionally use React, Angular or Vue for your mobile applications too.
+
+
+## React native
+React native is a mobile application framework that can be used to develop apps that run on both Android and iOS using Javascript.
+
+
+## iOS
+If you plan to write your applications purely for iOS, you can use xcode and swift to write them. However, you will need an Apple device in order to develop for the iPhone, if you don't have an Apple device and still want to build applications for this platform then try using alternative frameworks in this list.
+
 
 # Desktop applications
 Desktop applications are applications that the user can download and run on their computer. It can be anything from a file manager to a music player, its up to you! Here are a few different frameworks with varying difficulty that allow you to build your very own desktop application that you can show off to your friends and family!
 
-### Qt
-### GTK
-### Electron
-### Tkinter
+## Qt
+Qt is a widget toolkit for creating graphical user interfaces and cross-platform applications that run on various platforms. It allows the developer to write native application with native capabilities and performance which many other frameworks do not offer.
+
+
+## GTK
+GTK is a framework that is similar to Qt and provides native performance and capabilities. It is entirely free to use and one of the most popular frameworks for building applications on Linux.
+
+
+## ElectronJS
+ElectronJS is a platform that allows HTML, CSS and Javascript code to be run on the desktop, allowing access to the file system. Despite being infamous for producing very slow and resource heavy applications, it is one of the most popular ways to get web technologies on the desktop.
+
+
+## Tkinter
+Tkinter is arguably the simplest framework and a brilliant place to start developing desktop applications. Tkinter is for Python a beginner can add a front end to their Python projects with ease.
+
+
 
 # Code management
 Code management is vital in every area of the industry. It is expected if you are working in a programming job that you at least know Git. Not to worry, there are plenty of cool tutorials and guides and websites to aid you in your journey to allow yourself to be employed, work with other programmers and contribute to some of your favourite software!
 
-### Docker
-### Git
-### AWS
+## Docker
+Docker is a way to distribute software in containers which are isolated from one another and have their own software, libraries and configuration files. They are great for setting up a testing environment or for isolating different instances such as development and staging.
+
+
+## Git
+Git is a version control system (VCS) that allows the programmer to keep track of his work when updating it. It provides statistics and allows the programmer to easily rollback in case of any issues. It also allows other developers to work on the project at the same time. The majority of software uses Git and it is a vital skill.
+
+
+## AWS
+AWS or Amazon Web Services is an Amazon subsidiary that provides cloud computing platforms and APIs to businesses, individuals and governments. They are great for hosting and running applications without needing to worry about maintainence, security and efficiency of hardware.
+
 
 # Ethical hacking
 Many companies take security very seriously and a breach of security and data leak can lead to a ton of lawsuits and legal, ethical and moral problems. Companies hire ethical hackers and pentesters to test the resilience of their applications to see if they can find a way in and help make the companies applications indestructible and unhackable! Learn the ways in these simple guides below.
 
-### General ethical hacking
-### Linux
-### Pentesting
-### Talks and lectures
+## General ethical hacking
+Learn the basics of ethical hacking.
+
+
+## Linux
+Linux is an operating system just like macOS or Windows that can be easily used to program on, pentest on and do pretty much anything. It is a solid alternative to Windows and allows people who love customisation and knowing a lot about their computer to tweak and program to their hearts content. It is also faster and more secure and private than Windows. It also is more or less immune to computer viruses.
+
+
+## Pentesting
+Pentensting or Penetration Testing is a term used to define the act of testing the security and resilience of a system. Pentesting doesn't require a knowledge of programming or software, they just need to know the areas useful to security.
+
+
+## Talks and lectures
+Here are some talks and lectures on ethical hacking and pentesting to see how it can be used and examples of where it has been used. Including in non-ethical ways.
+
 
 # Databases and Query languages
 Databases are arguably one of the most boring parts of programming. Having to store data in the correct way and in a way that is fast and can be accessed without getting hacked is pretty difficult. Luckily there are plenty of tutorials and guides that teach you how to maintain, structure, manage and use a database in your applications!
 
-### Database design
-### SQL
-### PostgreSQL
-### MongoDB
-### SQLite
-### NoSQL
-### Firebase
+## Database design
+Learn the best way to structure a database to keep it clean and tidy and easy to maintain.
+
+
+## SQL
+Learn the most common query language and how to use it to manage a database.
+
+
+## PostgreSQL
+A free relational database management system. It is a modern and fast way to store data.
+
+
+## MongoDB
+MongoDB is a document-oriented database program that doesn't use SQL. It is JSON-like and is one of the most popular NoSQL databases.
+
+
+## SQLite
+SQLite is a relational database management system and is embedded into an end program instead of being a client-server database engine. 
+
+
+## Firebase
+Firebase is a mobile and web application development platform used to handle data. It is currently owned and maintained by Google and provides a very easy way of creating quick web applications without needing to worry about hosting or databases.
+
 
 # Esoteric languages
 Esoteric languages are fun little languages to play around with when you are bored or just want to try something different or quirky. From languages that only consist of a limited number of characters to languages that are 100% emojis, these languages are quite interesting and test the limits of what a programming language really is. You are highly unlikely to get a job in these languages but they are great fun!
 
-### Brainfuck
-### Emojicode
+## Brainfuck
+Brainfuck is an esoteric programming language that is notable for its extreme minimalism. It consists of only 8 commands and is not inteded for practical use.
+
+
+## Emojicode
+Emojicode is a language that uses emojis for their syntax. It is an esoteric language but claims to be a full blown language.
+
