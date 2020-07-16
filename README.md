@@ -2,10 +2,15 @@
 It's time to branch out your skills!
 Check out these *exclusviely free* courses :)
 
+You can learn how computers work, learn any modern popular language to control a computer, learn any framework for their corresponding languages and subsequently build something awesome!
+
+I have tried to include tutorials that both teach the languages and frameworks but also included project walk throughs so that you can build something awesome straight from the get go, without getting lost and helping to apply the knowledge that you've just learnt.
+
 Not sure what to learn?
 Click [here](https://www.bestprogramminglanguagefor.me) to find out what is best for you!
 
 # Index
+Here is the index! Choose a field that you are interested in!
 
  - Languages 💬
  - General computer science 💻
@@ -504,6 +509,7 @@ Brainfuck is a fun and esoteric language that involves using a very minimal amou
 [Website: Visual brainfuck](https://fatiherikli.github.io/brainfuck-visualizer/)
 
 # General computer science
+It is usually a good idea to get to grips with the basics of computer science as it will really help in the way you program and also has skills that you can apply to your programming and will aid you in learning every language!
 
 ### Basics of programming
 
@@ -535,7 +541,7 @@ Brainfuck is a fun and esoteric language that involves using a very minimal amou
 
 
 # Web development
-Web development is arguably one of the most popular and highly paid part of the industry, here are some of the tools that you can use to create your own applications or apply them at a job.
+Web development is arguably one of the most popular and highly paid part of the industry, here are some of the tools that you can use to create your own applications or apply them at a job. The main languages used in Web development are HTML, CSS, Javascript, PHP, Ruby, Python and Java. Make sure you know the corresponding language before starting on a framework!
 
 ## Sass
 Sass is a popular CSS preprocessor which adds more features and allows better customisation and control of website styling.
@@ -770,6 +776,7 @@ Deno is an alternative runtime for Javascript that can be used on the client and
 [Video: Deno chat applications](https://www.youtube.com/watch?v=XWyUtYL6ynE)
 
 ## Node.js
+Node.js is a highly popular runtime that allows execution of javascript programs on the client and server side.
 
 [Video: Learn NodeJS in 3 hours](https://www.youtube.com/watch?v=RLtyhwFtXQA)
 
@@ -777,7 +784,10 @@ Deno is an alternative runtime for Javascript that can be used on the client and
 
 [Video: NodeJS crash course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 
+[Book: Node.js notes for professionals](https://goalkicker.com/NodeJSBook/NodeJSNotesForProfessionals.pdf)
+
 ## Redux
+Redux is a state container for javascript applications.
 
 [Video: Redux in 5 minutes](https://www.youtube.com/watch?v=oD3miHerQbY)
 
@@ -786,6 +796,7 @@ Deno is an alternative runtime for Javascript that can be used on the client and
 [Video: Learn Redux from scratch](https://www.youtube.com/watch?v=poQXNp9ItL4)
 
 ## WebPack
+Webpack is a module bundler for javascript. It can be used to bundle Javascript ready for use in a browser.
 
 [Video: Webpack crash course](https://www.youtube.com/watch?v=lziuNMk_8eQ)
 
@@ -794,12 +805,14 @@ Deno is an alternative runtime for Javascript that can be used on the client and
 [Video: Webpack full tutorial in 2 hours](https://www.youtube.com/watch?v=MpGLUVbqoYQ)
 
 ## D3.js
+D3.js is an extremely powerful data visualisation library for javascript. Use it to add interactive graphs and other cool data visualisations in your website.
 
 [Video: Data visualisation with D3.js in 13 hours](https://www.youtube.com/watch?v=_8V5o2UHG0E)
 
 [Video: D3.js in 30 minutes](https://www.youtube.com/watch?v=C4t6qfHZ6Tw)
 
 # Machine learning
+Machine learning a is a relatively new field and is also very popular. You can build all kinds of cool things from a chat bot to a program that identifies cats from dogs. Here are some tutorials and frameworks that will aid you in creating your dream program.
 
 ### General machine learning
 ### Tensorflow
@@ -809,6 +822,7 @@ Deno is an alternative runtime for Javascript that can be used on the client and
 ### Numpy
 
 # Game programming
+Arguably what brings a lot of recreational programmers to programming is the idea of creating their very own game! Luckily, most of the hard work has been done already and almost anybody can create a game, both 3d and 2d! Here are some engines and libraries to help you build a game!
 
 ### Unity
 ### Unreal engine
@@ -817,6 +831,7 @@ Deno is an alternative runtime for Javascript that can be used on the client and
 ### Phaser
 
 # Mobile development
+Mobile phones are everywhere and the majority of people on planet earth use them. Many companies have apps, many independent organisations have apps and it has become a critical and important industry to be involved in.
 
 ### Flutter
 ### Android
@@ -825,6 +840,7 @@ Deno is an alternative runtime for Javascript that can be used on the client and
 ### iOS
 
 # Desktop applications
+Desktop applications are applications that the user can download and run on their computer. It can be anything from a file manager to a music player, its up to you! Here are a few different frameworks with varying difficulty that allow you to build your very own desktop application that you can show off to your friends and family!
 
 ### Qt
 ### GTK
@@ -832,12 +848,14 @@ Deno is an alternative runtime for Javascript that can be used on the client and
 ### Tkinter
 
 # Code management
+Code management is vital in every area of the industry. It is expected if you are working in a programming job that you at least know Git. Not to worry, there are plenty of cool tutorials and guides and websites to aid you in your journey to allow yourself to be employed, work with other programmers and contribute to some of your favourite software!
 
 ### Docker
 ### Git
 ### AWS
 
 # Ethical hacking
+Many companies take security very seriously and a breach of security and data leak can lead to a ton of lawsuits and legal, ethical and moral problems. Companies hire ethical hackers and pentesters to test the resilience of their applications to see if they can find a way in and help make the companies applications indestructible and unhackable! Learn the ways in these simple guides below.
 
 ### General ethical hacking
 ### Linux
@@ -845,6 +863,7 @@ Deno is an alternative runtime for Javascript that can be used on the client and
 ### Talks and lectures
 
 # Databases and Query languages
+Databases are arguably one of the most boring parts of programming. Having to store data in the correct way and in a way that is fast and can be accessed without getting hacked is pretty difficult. Luckily there are plenty of tutorials and guides that teach you how to maintain, structure, manage and use a database in your applications!
 
 ### Database design
 ### SQL
@@ -855,6 +874,7 @@ Deno is an alternative runtime for Javascript that can be used on the client and
 ### Firebase
 
 # Esoteric languages
+Esoteric languages are fun little languages to play around with when you are bored or just want to try something different or quirky. From languages that only consist of a limited number of characters to languages that are 100% emojis, these languages are quite interesting and test the limits of what a programming language really is. You are highly unlikely to get a job in these languages but they are great fun!
 
 ### Brainfuck
 ### Emojicode
