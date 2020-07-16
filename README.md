@@ -489,15 +489,17 @@ Elixir is a dynamic and functional language designed for beilding scalable and m
 ## Brainfuck
 Brainfuck is a fun and esoteric language that involves using a very minimal amount of characters. It looks very hard at first but at its core, its very simple.
 
-[Video: How brainfuck works](https://www.youtube.com/watch?v=-3C200nCwpk)
+[Video: How Brainfuck works](https://www.youtube.com/watch?v=-3C200nCwpk)
 
-[Video: Hello world in brainfuck](https://www.youtube.com/watch?v=0nY80P5QFgo)
+[Video: Hello world in Brainfuck](https://www.youtube.com/watch?v=0nY80P5QFgo)
 
-[Video: AI in brainfuck](https://www.youtube.com/watch?v=qK0vmuQib8Y)
+[Video: AI in Brainfuck](https://www.youtube.com/watch?v=qK0vmuQib8Y)
 
 [Video: Brainfuck programming tutorial](https://www.youtube.com/watch?v=G-tuXeMyb58)
 
-[Video: Complete brainfuck tutorial](https://www.youtube.com/watch?v=7C4KOv3mLHc)
+[Video: Complete Brainfuck tutorial](https://www.youtube.com/watch?v=7C4KOv3mLHc)
+
+[Website: Online Brainfuck compiler](https://repl.it/languages/brainfuck)
  
 # General computer science
 
