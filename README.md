@@ -537,28 +537,267 @@ Brainfuck is a fun and esoteric language that involves using a very minimal amou
 # Web development
 Web development is arguably one of the most popular and highly paid part of the industry, here are some of the tools that you can use to create your own applications or apply them at a job.
 
-### Sass
-### Bootstrap
-### Bulma
-### React.js
-### Asp.net
-### Ruby on Rails
-### Angular
-### Vue.js
-### Django
-### Laravel
-### Spring boot
-### Express
-### Flask
-### Symfony
-### Svelte
-### Gatsby.js
-### jQuery
-### Deno
-### Node.js
-### Redux
-### WebPack
-### D3.js
+## Sass
+Sass is a popular CSS preprocessor which adds more features and allows better customisation and control of website styling.
+
+[Video: Sass in 2 hours](https://www.youtube.com/watch?v=_a5j7KoflTs)
+
+[Video: Sass crash course](https://www.youtube.com/watch?v=roywYSEPSvc)
+
+[Video: Sass in 20 minutes](https://www.youtube.com/watch?v=Zz6eOVaaelI)
+
+[Book: The official Sass guide](https://sass-lang.com/guide)
+
+## Bootstrap
+Bootstrap is a popular CSS framework that allows very quick and easy styling of websites. It makes it very easy to scale down your website from desktop to mobile while still being readable.
+
+[Video: Learn Bootstrap  by building a custom theme](https://www.youtube.com/watch?v=RyTRgQ7k6QE)
+
+[Video: Bootstrap 4 crash course](https://www.youtube.com/watch?v=hnCmSXCZEpU)
+
+[Website: Official Bootstrap tutorial](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+
+[Website: W3Schools Bootstrap tutorial](https://www.w3schools.com/bootstrap4/)
+
+## Bulma
+Bulma is an alternative to frameworks like Bootstrap, it makes it easy to style your website and make it responsive meaning that it can collapse down to smaller screens.
+
+[Video: Bulma crash course](https://www.youtube.com/watch?v=IiPQYQT2-wg)
+
+[Website: Bulma official documentation](https://bulma.io/documentation/)
+
+[Website: Bulma in 5 minutes](https://www.freecodecamp.org/news/learn-bulma-in-5-minutes-ec5188c53e83/)
+
+## React.js
+React.js is the most popular front-end framework that can be used to build applications out of reusable and modular components. It makes creating web apps and websites in general easier.
+
+[Video: React JS full course for beginners](https://www.youtube.com/watch?v=DLX62G4lc44)
+
+[Video: React hooks tutorial](https://www.youtube.com/watch?v=iVRO0toVdYM)
+
+[Video: React beginners tutorial build an autocomplete text box](https://www.youtube.com/watch?v=NnpISZANByg)
+
+[Video: Build an e-commerce website from scratch](https://www.youtube.com/watch?v=wPQ1-33teR4)
+
+[Video: Build a chat application using React and Redux](https://www.youtube.com/watch?v=x_fHXt9V3zQ)
+
+[Video: React weather app](https://www.youtube.com/watch?v=cdBvSlVCOXw)
+
+[Video: APIs in React recipie app](https://www.youtube.com/watch?v=tvfeBLMA_Q4)
+
+[Video: Full Stack React & Firebase tutorial](https://www.youtube.com/watch?v=m_u6P5k0vP0)
+
+[Video: React & Firebase evernote clone](https://www.youtube.com/watch?v=I250xdtUvy8)
+
+[Video: Todoist clone with Firebase, Hooks, Scss and testing](https://www.youtube.com/watch?v=hT3j87FMR6M)
+
+[Videos: Typescript and React tutorial quiz app](https://www.youtube.com/watch?v=F2JCjVSZlG0)
+
+[Video: Build a recipie app with React](https://www.youtube.com/watch?v=U9T6YkEDkMo)
+
+[Book: React JS notes for professionals](https://goalkicker.com/ReactJSBook/ReactJSNotesForProfessionals.pdf)
+
+## Asp.net core
+Asp.net is an open source web framework for creating web applications.
+
+[Video: ASP.NET Full course for beginners](https://www.youtube.com/watch?v=C5cnZ-gZy2I)
+
+[Website: Codecademy's free ReactJS course](https://www.codecademy.com/learn/react-101)
+
+[Book: .NET framework notes for professionals](https://goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf)
+
+## Ruby on Rails
+Ruby on Rail is a server-side application framework written in Ruby. It emerged in 2005 and greatly influenced web app development.
+
+[Video: Ruby on Rails in 1 hour](https://www.youtube.com/watch?v=pPy0GQJLZUM)
+
+[Video series: Ruby on Rails from scratch](https://www.youtube.com/watch?v=exEduZlJS7Q&list=PLDmvslp_VR0xlwr5lAx2PDsZLu7oIOhpX)
+
+[Video: Build your first Rails app - blog with comments](https://www.youtube.com/watch?v=wbZ6yrVxScM)
+
+[Video: Build a real estate platform in Ruby on Rails](https://www.youtube.com/watch?v=qvGGz-2WHpU)
+
+[Video: Build an instagram clone in Ruby on Rails](https://www.youtube.com/watch?v=dqjF3C9A-Yg)3
+
+[Book: Ruby on Rails notes for professionals](https://goalkicker.com/RubyOnRailsBook/RubyOnRailsNotesForProfessionals.pdf)
+
+## Angular
+Angular is a TypeScript based web application framework built by a team at Google. It is not to be confused with "AngularJS" which was the original framework written by Google however it was entirely rewritten and is now just "Angular" or "Angular 2+"
+
+[Video: Full Angular tutorial in 6 hours](https://www.youtube.com/watch?v=2OHbjep_WjQ)
+
+[Video: Angular crash course](https://www.youtube.com/watch?v=Fdf5aTYRW0E)
+
+[Video: Angular 8 from scratch](https://www.youtube.com/watch?v=_TLhUCjY9iA)
+
+[Video: Angular and Spring Boot - Build a reddit clone](https://www.youtube.com/watch?v=DKlTBBuc32c)
+
+[Video: Build a budget calculator in Angular](https://www.youtube.com/watch?v=sU4z4Ti-8OQ)
+
+[Video: Build a todo list app in 30 minutes](https://www.youtube.com/watch?v=jNCzuSryJHE)
+
+[Book: Angular 2+ Notes for professionals](https://goalkicker.com/Angular2Book/Angular2NotesForProfessionals.pdf)
+
+## Vue.js
+Vue.js is an community maintained javascript framework similar to React and Angular that allow you to build a web application.
+
+[Video: VueJS full tutorial](https://www.youtube.com/watch?v=4deVCNJq3qc)
+
+[Video: VueJS crash course](https://www.youtube.com/watch?v=Wy9q22isx3U) 
+
+[Video: Build a weather app in VueJS](https://www.youtube.com/watch?v=JLc-hWsPTUY)
+
+[Video: Build a music app in VueJS](https://www.youtube.com/watch?v=BPyniDJ5QOQ)
+
+[Video: Build a calculator in VueJS](https://www.youtube.com/watch?v=m1_ih43p24s)
+
+[Video: Build a todo app with VueJS](https://www.youtube.com/watch?v=A5S23KS_-bU)
+
+## Django
+Django is a python-based web framework for creating web applications, similar to Ruby on Rails. It is used by many companies and there are plenty of jobs in it.
+
+[Video: Django full tutorial](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+
+[Video: Django crash course](https://www.youtube.com/watch?v=e1IyzVyrLSU) 
+
+[Video: Build a e-commerce app in Django]((https://www.youtube.com/watch?v=YZvRrldjf1Y)
+
+[Video: Django user authentucation](https://www.youtube.com/watch?v=tUqUdu0Sjyc)
+
+[Video: Create a todo app in Django](https://www.youtube.com/watch?v=f1R_bykXHGE)
+
+## Laravel
+Laravel is a PHP web framework for creating web applications.
+
+[Video: Laravel in 4 hours](https://www.youtube.com/watch?v=ImtZ5yENzgE)
+
+[Video series: Laravel from scratch](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
+
+[Video series: Laravel E-Commerce website](https://www.youtube.com/watch?v=o5PWIuDTgxg&list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR)
+
+[Video: Laravel student management system](https://www.youtube.com/watch?v=5fTFHAwWRV4)
+
+## Spring boot
+Spring boot is a Java web framework for building websites.
+
+[Video: Spring Boot tutorial for beginners](https://www.youtube.com/watch?v=vtPkZShrvXQ)
+
+[Video: Spring boot in 50 minutes](https://www.youtube.com/watch?v=Ke7Tr4RgRTs)
+
+[Video: Spring Boot and Angular reddit clone](https://www.youtube.com/watch?v=DKlTBBuc32c)
+
+[Video series: Building a block using Spring Boot and Angular](https://www.youtube.com/watch?v=YqEDASVUEPc&list=PLSVW22jAG8pCwwM3tjSMfwBKYIS6_fP-F)
+
+[Video: Spring boot MVC E-commerce website](https://www.youtube.com/watch?v=hwSB50DqMkc&list=PL2UwEEhB4YafpL-nXPn8rwkNC3pASLpit)
+
+[Book: Spring framework notes for professionals](https://goalkicker.com/SpringFrameworkBook/SpringFrameworkNotesForProfessionals.pdf)
+
+## Express
+Express is a node.js web framework for creating robust APIs.
+
+[Video: ExpressJS crash course](https://www.youtube.com/watch?v=L72fhGm1tfE&t=137s)
+
+[Video: Expressjs & Nodejs course for beginners](https://www.youtube.com/watch?v=JlgKybraoy4)
+
+## Flask
+Flask is a python web framework for building web applications.
+
+[Video: Learn flask for python](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+
+[Video Series: Flask Tutorials - How to make websites with Python](https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
+
+[Video: Build a social network in flask](https://www.youtube.com/watch?v=-FWuNnCe73g)
+
+## Symfony
+Symfony is a PHP web framework and a set of reusable PHP components nad libraries.
+
+[Video: Symfony in 3 hours](https://www.youtube.com/watch?v=Bo0guUbL5uo)
+
+[Video: Blog in symfony](https://www.youtube.com/watch?v=WCRjbmhAXpE&list=PLxytbXx3I1x9OPHkSc2QFpfybbTAqyfGK)
+
+## Svelte
+Svelte is a javascript framework that generates code to manipulate the DOM and creates fast web apps.
+
+[Video: Learn Svelte in 7 hours full course](https://www.youtube.com/watch?v=ujbE0mzX-CU)
+
+[Video: Svelte.js crash course](https://www.youtube.com/watch?v=uK2RnIzrQ0M)
+
+[Video: Learn svelte in 1 hour](https://www.youtube.com/watch?v=vhGiGqZ78Rs)
+
+[Video: Svelte budget calculator app](https://www.youtube.com/watch?v=uk1eM0Yn0UQ)
+
+[Video: Dad jokes website and API with Svelte.js](https://www.youtube.com/watch?v=WhxwIE66YaU)
+
+[Video: Svelte habit app](https://www.youtube.com/watch?v=U5Eb8zBhO1c)
+
+[Video: Gif search app with svelte](https://www.youtube.com/watch?v=13L02Co52Dc)
+
+[Video: Svelte app in 3 minutes and 15 lines of code](https://www.youtube.com/watch?v=1zWEAluGy9k)
+
+## Gatsby.js
+Gatsby is a javascript framework based on React.js and helps to deliver very fast static websites and apps.
+
+[Video: Gatsby in 5 hours](https://www.youtube.com/watch?v=kzWIUX3CpuI)
+
+[Video: Gatsby.js crash course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc)
+
+[Video series: Portfolio website from scratch in Gatsby.js](https://www.youtube.com/watch?v=MRaWzdXE8so&list=PLgcPxVODYXGLe7dherj91PRA0MyBvWswN)
+
+[Video: Gatsby coffee shop website](https://www.youtube.com/watch?v=oAVhEPey_qA)
+
+## jQuery
+jQuery is a javascript library that aims to simplify HTML DOM tree traversal and manipulation as well as event handling and animation. It is great for people who just want to build a website without ReactJS or other heavy javascript frameworks. It is really simple to learn and can improve productivity.
+
+[Video: jQuery full course](https://www.youtube.com/watch?v=ScoURsEM_yU)
+
+[Video: jQuery in 6 minutes](https://www.youtube.com/watch?v=JjIvF0yikGU)
+
+[Video: jQuery animated skills bars](https://www.youtube.com/watch?v=xHuWmgV4O9Y)
+
+[Video: Build a jQuery calculator](https://www.youtube.com/watch?v=oYJhGivHPPo)
+
+[Website: jQuery tutorial](https://www.w3schools.com/jquery/)
+
+[Book: jQuery notes for professionals](https://goalkicker.com/jQueryBook/jQueryNotesForProfessionals.pdf)
+
+## Deno
+Deno is an alternative runtime for Javascript that can be used on the client and server side.
+
+[Video: Deno crash course](https://www.youtube.com/watch?v=NHHhiqwcfRM)
+
+[Video: Deno in 6 hours](https://www.youtube.com/watch?v=TQUy8ENesGY)
+
+[Video: Deno chat applications](https://www.youtube.com/watch?v=XWyUtYL6ynE)
+
+## Node.js
+
+[Video: Learn NodeJS in 3 hours](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+
+[Video: Learn NodeJS in 1 hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+
+[Video: NodeJS crash course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+
+## Redux
+
+[Video: Redux in 5 minutes](https://www.youtube.com/watch?v=oD3miHerQbY)
+
+[Video: Redux crash course](https://www.youtube.com/watch?v=93p3LxR9xfM)
+
+[Video: Learn Redux from scratch](https://www.youtube.com/watch?v=poQXNp9ItL4)
+
+## WebPack
+
+[Video: Webpack crash course](https://www.youtube.com/watch?v=lziuNMk_8eQ)
+
+[Video: Webpack 4 for beginners](https://www.youtube.com/watch?v=TzdEpgONurw)
+
+[Video: Webpack full tutorial in 2 hours](https://www.youtube.com/watch?v=MpGLUVbqoYQ)
+
+## D3.js
+
+[Video: Data visualisation with D3.js in 13 hours](https://www.youtube.com/watch?v=_8V5o2UHG0E)
+
+[Video: D3.js in 30 minutes](https://www.youtube.com/watch?v=C4t6qfHZ6Tw)
 
 # Machine learning
 
@@ -613,6 +852,7 @@ Web development is arguably one of the most popular and highly paid part of the 
 ### MongoDB
 ### SQLite
 ### NoSQL
+### Firebase
 
 # Esoteric languages
 
