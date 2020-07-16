@@ -176,41 +176,219 @@ Javascript is a language that drives the modern web. It is a core technology of 
 ## R
 R is a language that is primarily for statistical computing and graphics that is used amongst statisticians and data miners and can be used for data analysis. It serves a specific purpose and serves a very specific area of programming. If you are looking to start off programming, try learning a general-purpose language first to get a good feel for what a language can do.
 
+[Video: R programming tutorial learn the basics of statistical computing](https://www.youtube.com/watch?v=_V8eKsto3Ug&t=101s)
+
+[Video series: Learn R Programming](https://www.youtube.com/watch?v=SWxoJqTqo08&list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg)
+
+[Website: Codecademy's free R course](https://www.codecademy.com/learn/learn-r)
+
+[Website: Refine skills and improve problem solving in R](https://www.codewars.com/?language=r)
+
+[Website: Online R compiler](https://repl.it/languages/rlang)
+
+[Website: Interactive R tutorial](https://www.learn-r.org/)
+
+[Book: R notes for professionals](https://goalkicker.com/RBook/RNotesForProfessionals.pdf)
+
 ## PHP
 PHP is a popular language that is suited to web development. If you plan to get into web development, perhaps learn javascript first due to its popularity and job availability however, you can always come to PHP if you prefer it or plan to work in it.
+
+[Video: PHP language tutorial full course](https://www.youtube.com/watch?v=OK_JCtrrv-c)
+
+[Video: Build a Twitter thread reader using PHP](https://www.youtube.com/watch?v=jjodHH6stRU)
+
+[Video: Learn PHP and MySQL with practical full project](https://www.youtube.com/watch?v=NMSlQjm2row)
+
+[Website: Codecademy's free PHP course](https://www.codecademy.com/learn/learn-php)
+
+[Website: Refine skills and improve problem solving in PHP](https://www.codewars.com/?language=php)
+
+[Website: Online PHP interpreter](https://repl.it/languages/php)
+
+[Website: Interactive PHP tutorial](https://www.learn-php.org/)
+
+[Book: PHP notes for professionals](https://goalkicker.com/PHPBook/PHPNotesForProfessionals.pdf)
 
 ## Swift
 Swift is a language developed by Apple primarily for creating applications for iOS, iPadOS, macOS, watchOS, tvOS and Linux. If you plan to develop apps primarily for Apple's products, Swift is the language to learn!
 
+[Video: Swift full course for beginners](https://www.youtube.com/watch?v=comQ1-x2a1Q)
+
+[Video: Your first app on iOS](https://www.youtube.com/watch?v=09TeUXjzpKs)
+
+[Website: Codecademy's free Swift course](https://www.codecademy.com/learn/learn-swift)
+
+[Website: Refine skills and improve problem solving in Swift](https://www.codewars.com/?language=swift)
+
+[Website: Online swift compiler](https://repl.it/languages/swift)
+
+[Website: Official swift tutorial](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+
+[Book: Swift notes for professionals](https://goalkicker.com/SwiftBook/SwiftNotesForProfessionals.pdf)
+
 ## SQL
 SQL is a special query language that is used to manage data held in a database. It is widely used and if you plan to get into developing full-stack applications or even ethical hacking, SQL is an important skill to have.
+
+[Video: SQL full database course for beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+
+[Video: PostgreSQL for beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
+
+[Video: SQLite Databases with Python](https://www.youtube.com/watch?v=byHcYRpMgI4)
+
+[Video: MySQL tutorial for beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+
+[Video series: SQL database programming](https://www.youtube.com/watch?v=xmwI6VB_wUM&list=PLLAZ4kZ9dFpMGXTKXsBM_ZNpJwowfsP49)
+
+[Website: Codecademy's free SQL course](https://www.codecademy.com/learn/learn-sql)
+
+[Website: Refine skills and improve querys in SQL](https://www.codewars.com/?language=sql)
+
+[Website: SQLite online](https://sqliteonline.com/)
+
+[Website: Interactive SQL tutorial](https://www.w3schools.com/sql/)
+
+[Book: SQL notes for professionals](https://goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf)
 
 ## Regex
 Regular expressions (regex for short) is a very small and specific language that is used to scan, search and verify text. You can use regex to verify that a user has entered a valid email or use it to replace specific portions of text that conform to a special pattern (e.g. all words ending in a question mark). It is very useful to know and makes programming in every area of the industry very useful.
 
+[Video: Regular expressions crash course](https://www.youtube.com/watch?v=ZfQFUJhPqMM)
+
+[Website: Codecademy's introduction to regular expressions](https://www.codecademy.com/learn/introduction-to-regular-expressions)
+
+[Website: Regular expressions online](https://regex101.com/)
+
+[Website: A quick and interactive way to learn regex](https://learn-regex.com/)
+
+[Book: Bastards book of regular expressions](http://regex.bastardsbook.com/files/bastards-regexes.pdf)
+
 ## Go
 Go is a language created by Google. It is designed to improve productivity in the modern day. It aims to be fast, readable and have high-performance networking and multiprocessing. It was created due to a dislike of C++ by the developers.
+
+[Video: Go tutorial for beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
+
+[Video: Go crash course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
+
+[Video: Learn go in 12 minutes](https://www.youtube.com/watch?v=C8LgvuEBraI)
+
+[Website: Codecademy's free Go course](https://www.codecademy.com/learn/learn-go)
+
+[Webiste: Refine skills and improve problem solving in Go](https://www.codewars.com/?language=go)
+
+[Website: Online Go compiler](https://repl.it/languages/go)
+
+[Website: Interactive go tutorial](https://www.learn-golang.org/)
+
+[Website: Go cheatsheet](https://learnxinyminutes.com/docs/go/)
 
 ## Perl
 Perl is a general purpose language and gained popularity for its unsurpassed regular expression and string parsing abilities. It can be used for system administration, network programming, finance and bioinformatics. It is not recommended for beginners due to its lack of available jobs and popularity in the modern day.
 
+[Video: Perl tutorial](https://www.youtube.com/watch?v=WEghIXs8F6c)
+
+[Website: Execute Perl online](https://www.tutorialspoint.com/execute_perl_online.php)
+
+[Website: Interactive Perl tutorial](https://www.learn-perl.org/)
+
+[Book: Perl notes for professionals](https://goalkicker.com/PerlBook/PerlNotesForProfessionals.pdf)
+
 ## Ruby
 Ruby is a high level general purpose programming language developed in the 1990s in Japan. It has very unique syntax and is brilliant for string parsing and processing, just like perl, and is perfect for beginners just like Python. It has been used to create web applications used by many major companies and websites due to its Ruby on Rails framework.
+
+[Video: Ruby programming language full course](https://www.youtube.com/watch?v=t_ispmWmdjY)
+
+[Video: Ruby in one video](https://www.youtube.com/watch?v=Dji9ALCgfpM)
+
+[Website: Codecademy's free Ruby course](https://www.codecademy.com/learn/learn-ruby)
+
+[Website: Refine skills and improve problem solving in Ruby](https://www.codewars.com/?language=ruby)
+
+[Website: Online Ruby interpreter](https://repl.it/languages/ruby)
+
+[Website: Interactive Ruby tutorial](https://www.learnrubyonline.org/)
+
+[Website: Ruby in twenty minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+
+[Book: Ruby notes for professionals](https://goalkicker.com/RubyBook/RubyNotesForProfessionals.pdf)
 
 ## Rust
 Rust is an new and incredibly fast language written in 2010 that aims to be very safe and have very few issues when run. It has been used everywhere from fire engines to web browsers like Firefox! It is similar to C++ but improves on many aspects and has a very powerful dependency management system. It is not recommended for beginners due to its more advanced syntax and concepts. 
 
+[Video: Rust crash course](https://www.youtube.com/watch?v=zF34dRivLOw)
+
+[Video series: Learn and apply Rust](https://www.youtube.com/watch?v=EYqceb2AnkU&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
+
+[Website: Refine skills and improve problem solving in Rust](https://www.codewars.com/?language=rust)
+
+[Website: Online rust compiler](https://repl.it/languages/rust)
+
+[Book: Official Rust book](https://doc.rust-lang.org/book/)
+
+[Book: Rust by example](https://doc.rust-lang.org/stable/rust-by-example/)
+
 ## Dart
 Dart is another Google language that is primarily used for apps on multiple platforms and can be used to build mobile, desktop, server and web applications. It has C style syntax and has very similar syntax to Javascript. It is mainly used for the Flutter tool for building mobile apps that work on both iOS and Android.
+
+[Video: Dart programming full course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
+
+[Video: Learn dart in one video](https://www.youtube.com/watch?v=OLjyCy-7U2U)
+
+[Video: Learn Dart in 30 minutes](https://www.youtube.com/watch?v=0CTj3x6jgeY)
+
+[Website Refine skills and improve problem solving in Dart](https://www.codewars.com/?language=dart)
+
+[Website: Online dart compiler](https://repl.it/languages/dart)
+
+[Website: Dart tutorials](https://dart.dev/tutorials)
+
+[Website: Dart cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)
 
 ## Kotlin
 Kotlin is a language designed to interoperate fully with Java. It appears to be the most preferred language of app developers on the Android platform.
 
+[Video: Kotlin course tutorial for beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+
+[Video: Programming fundamentals with Kotlin](https://www.youtube.com/watch?v=AeC4G-H-MQA)
+
+[Video: Learn Kotlin in one video](https://www.youtube.com/watch?v=H_oGi8uuDpA)
+
+[Website: Codecademy's free Kotlin course](https://www.codecademy.com/learn/learn-kotlin)
+
+[Website: Refine skills and improve problem solving in Kotlin](https://www.codewars.com/?language=kotlin)
+
+[Website: Online Kotlin compiler](https://repl.it/languages/kotlin)
+
+[Website: Official Kotlin documentation](https://kotlinlang.org/docs/reference/)
+
+[Book: Kotlin notes for professionals](https://goalkicker.com/KotlinBook/KotlinNotesForProfessionals.pdf)
+
 ## Julia
 Julia is a language that can be used to write any application but mainly focusses around numerical analysis and computational science. It is very fast and can be used by beginners due to its easy enough syntax.
 
+[Video: Julia complete tutorial in 4 hours](https://www.youtube.com/watch?v=lwj-1mclq0U)
+
+[Video: Learn Julia in one video](https://www.youtube.com/watch?v=sE67bP2PnOo)
+
+[Video: Official intro to Julia tutorial](https://www.youtube.com/watch?v=8h8rQyEpiZA)
+
+[Website: Refine skills and improve problem solving in Julia](https://www.codewars.com/?language=julia)
+
+[Website: Introduction to julia](https://juliaacademy.com/p/intro-to-julia)
+
+[Website: Online Julia compiler](https://repl.it/languages/julia)
+
 ## Lua
 Lua is a language designed primarily for embedded use in applications. It was originally designed in 1993 as a language for extending software applications to meet the incerasing demand for customization.
+
+[Video: Learn Lua in one video](https://www.youtube.com/watch?v=iMacxZQMPXs)
+
+[Video: Learn Lua in an Hour](https://www.youtube.com/watch?v=S4eNl1rA1Ns)
+
+[Website: Refine skills and improve problem solving in Lua](https://www.codewars.com/?language=lua)
+
+[Website: Online Lua interpreter](https://repl.it/languages/lua)
+
+[Website: Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
 
 ## Haskell
 Haskell is a general purpose language that is known for being purely functional and is suitable for teaching, research and industrial application. 
