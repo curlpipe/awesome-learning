@@ -265,6 +265,8 @@ Regular expressions (regex for short) is a very small and specific language that
 ## Go
 Go is a language created by Google. It is designed to improve productivity in the modern day. It aims to be fast, readable and have high-performance networking and multiprocessing. It was created due to a dislike of C++ by the developers.
 
+[Video series: Golang tutorial](https://www.youtube.com/watch?v=uCR_A-Bphl0&list=PLJbE2Yu2zumCe9cO3SIyragJ8pLmVv0z9)
+
 [Video: Go tutorial for beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
 [Video: Go crash course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
@@ -329,6 +331,8 @@ Rust is an new and incredibly fast language written in 2010 that aims to be very
 ## Dart
 Dart is another Google language that is primarily used for apps on multiple platforms and can be used to build mobile, desktop, server and web applications. It has C style syntax and has very similar syntax to Javascript. It is mainly used for the Flutter tool for building mobile apps that work on both iOS and Android.
 
+[Video series: Dart tutorials](https://www.youtube.com/watch?v=8F2uemqLwvE&list=PLJbE2Yu2zumDjfrfu8kisK9lQVcpMDDzZ)
+
 [Video: Dart programming full course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
 
 [Video: Learn dart in one video](https://www.youtube.com/watch?v=OLjyCy-7U2U)
@@ -345,6 +349,8 @@ Dart is another Google language that is primarily used for apps on multiple plat
 
 ## Kotlin
 Kotlin is a language designed to interoperate fully with Java. It appears to be the most preferred language of app developers on the Android platform.
+
+[Video series: Kotlin tutorial](https://www.youtube.com/watch?v=GA1WWKP1pnw&list=PLJbE2Yu2zumBGXAvQlpSBauM-elyV_DyU)
 
 [Video: Kotlin course tutorial for beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 
@@ -401,6 +407,8 @@ Crystal is a language that is designed to be incredibly fast while having simila
 
 ## ReasonML
 ReasonML is a language that lets you write simple, fast and type safe code. It integrates well with javascript and allows use of packages from their ecosystems. It allows you to make websites, animations, games, servers and cli tools.
+
+[Video series: ReasonML tutorial](https://www.youtube.com/watch?v=KOSjVDKmwFw&list=PLJbE2Yu2zumA3P2_0t3zqBECe9Tj6BKyV)
 
 ## Nim
 Nim is an efficient, expressive and elegant language that is very similar to languages like Python while being faster and providing features that lower level languages have. It is great as a stepping stone for going from python or ruby to rust or C++.
