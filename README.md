@@ -523,7 +523,7 @@ Brainfuck is a fun and esoteric language that involves using a very minimal amou
 
 ### Graph theory
 
-[Video: Graph theory tutorial from a google tutorial](https://www.youtube.com/watch?v=09_LlHjoEiY)
+[Video: Graph theory tutorial from a google employee](https://www.youtube.com/watch?v=09_LlHjoEiY)
 
 ### Mathematics for programmers
 
