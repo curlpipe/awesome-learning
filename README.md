@@ -399,25 +399,105 @@ Lua is a language designed primarily for embedded use in applications. It was or
 ## Haskell
 Haskell is a general purpose language that is known for being purely functional and is suitable for teaching, research and industrial application. 
 
+[Video series: Learn you a Haskell](https://www.youtube.com/watch?v=ZyPfyYmYo6g&list=PLwiOlW12BuPZUxA2gISnWV32mp26gNq56)
+
+[Video: Learn haskell in one video](https://www.youtube.com/watch?v=02_H3LjqMr8)
+
+[Website: Refine skills and improve problem solving in Haskell](https://www.codewars.com/?language=haskell)
+
+[Website: Online Haskell interpreter](https://repl.it/languages/haskell)
+
+[Website: Learn you a haskell](http://learnyouahaskell.com/chapters)
+
+[Book: Haskell notes for professionals](https://goalkicker.com/HaskellBook/HaskellNotesForProfessionals.pdf)
+
 ## Typescript
 Typescript is a language developed by Microsoft and is a strict syntactical superset of Javascript and adds static typing to the language. It is designed for the development of large applications and transcompiles to javascript. It is advised that you learn Javascript before Typescript but Typescript is becoming more used so you can always move onto it in the future.
 
+[Video: Typescript crash course](https://www.youtube.com/watch?v=rAy_3SIqT-E)
+
+[Video: Typescript in 1 hour](https://www.youtube.com/watch?v=NjN00cM18Z4)
+
+[Video: Learn typescript from scratch](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+
+[Website: Refine skills and improve problem solving in Typescript](https://www.codewars.com/?language=typescript)
+
+[Website: Online Typescript transcompiler](https://repl.it/languages/typescript)
+
+[Website: Official Typescript documentation](https://www.typescriptlang.org/docs/home.html)
+
+[Book: Typescript notes for professionals](https://goalkicker.com/TypeScriptBook2/TypeScriptNotesForProfessionals.pdf)
+
 ## Crystal
 Crystal is a language that is designed to be incredibly fast while having similar syntax to Ruby. It is good for those who want to make very fast programs without needing to learn more difficult languages like C and Rust.
+
+[Video: Learn Crystal in one video](https://www.youtube.com/watch?v=DxFP-Wjqtsc)
+
+[Video series: Crystal lang tutorials](https://www.youtube.com/watch?v=KGlHq6ljP8E&list=PL_ZUs2eBjBiv-L32YQ0zN9XoIBfAsDCnB)
+
+[Website: Refine skills and improve problem solving in Crystal](https://www.codewars.com/?language=crystal)
+
+[Website: Online Crystal compiler](https://repl.it/languages/crystal)
+
+[Book: Official Crystal book](https://crystal-lang.org/reference/getting_started/)
 
 ## ReasonML
 ReasonML is a language that lets you write simple, fast and type safe code. It integrates well with javascript and allows use of packages from their ecosystems. It allows you to make websites, animations, games, servers and cli tools.
 
 [Video series: ReasonML tutorial](https://www.youtube.com/watch?v=KOSjVDKmwFw&list=PLJbE2Yu2zumA3P2_0t3zqBECe9Tj6BKyV)
 
+[Video series: Learn ReasonML](https://www.youtube.com/watch?v=3PjPGEoSYFA&list=PLyKUGeeCAzPeZIJ2ESs35DaMjfWH2YZ1c)
+
+[Video: ReasonML full course for beginners](https://www.youtube.com/watch?v=sjWsAYJF8BA)
+
+[Website: Refine skills and improve problem solving in ReasonML](https://www.codewars.com/?language=reason)
+
+[Website: Online ReasonML compiler](https://repl.it/languages/reason)
+
+[Website: Learning ReasonML](https://lucasmreis.github.io/blog/learning-reasonml-part-1/)
+
 ## Nim
 Nim is an efficient, expressive and elegant language that is very similar to languages like Python while being faster and providing features that lower level languages have. It is great as a stepping stone for going from python or ruby to rust or C++.
 
-## Elixr
-Elixr is a dynamic and functional language designed for beilding scalable and maintainable applications. It is designed to be fast. It can be used for web development, embedded software, data and multimedia processing. 
+[Video series: Nim Programming Language (english)](https://www.youtube.com/watch?v=WugYWc_IEWs&list=PLXIivpcMlfwAevvA4IvLIiYOujqSuyyKY)
 
-## Emojicode
-Emoji code is a fun and esoteric language that provides all the features of most languages consisting of emojis.
+[Video series: Nim tutorial](https://www.youtube.com/watch?v=Iro4l0bMBb4&list=PLgiE9waqUrgW33khJnzk53UZhCJDhCPt9)
+
+[Website: Refine skills and improve problem solving in Nim](https://www.codewars.com/?language=nim)
+
+[Website: Online Nim compiler](https://repl.it/languages/nim)
+
+[Book: Nim basics](https://narimiran.github.io/nim-basics/)
+
+[Book: Official Nim Resources](https://nim-lang.org/learn.html)
+
+## Elixir
+Elixir is a dynamic and functional language designed for beilding scalable and maintainable applications. It is designed to be fast. It can be used for web development, embedded software, data and multimedia processing. 
+
+[Video series: Elixir](https://www.youtube.com/watch?v=R8CeZazrDHo&list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq)
+
+[Video series: From zero to hero in Elixir] (https://www.youtube.com/watch?v=Jydr6UUYs2U&list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
+
+[Video: Learn Elixir in one video](https://www.youtube.com/watch?v=pBNOavRoNL0)
+
+[Website: Refine skills and improve problem solving in Elixir](https://www.codewars.com/?language=elixir)
+
+[Website: Online Elixir compiler](https://repl.it/languages/elixir)
+
+[Website: Interactive Elixir tutorial](https://learn-elixir.com/)
+
+## Brainfuck
+Brainfuck is a fun and esoteric language that involves using a very minimal amount of characters. It looks very hard at first but at its core, its very simple.
+
+[Video: How brainfuck works](https://www.youtube.com/watch?v=-3C200nCwpk)
+
+[Video: Hello world in brainfuck](https://www.youtube.com/watch?v=0nY80P5QFgo)
+
+[Video: AI in brainfuck](https://www.youtube.com/watch?v=qK0vmuQib8Y)
+
+[Video: Brainfuck programming tutorial](https://www.youtube.com/watch?v=G-tuXeMyb58)
+
+[Video: Complete brainfuck tutorial](https://www.youtube.com/watch?v=7C4KOv3mLHc)
  
 # General computer science
 
