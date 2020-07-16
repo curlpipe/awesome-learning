@@ -476,7 +476,7 @@ Elixir is a dynamic and functional language designed for beilding scalable and m
 
 [Video series: Elixir](https://www.youtube.com/watch?v=R8CeZazrDHo&list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq)
 
-[Video series: From zero to hero in Elixir] (https://www.youtube.com/watch?v=Jydr6UUYs2U&list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
+[Video series: From zero to hero in Elixir](https://www.youtube.com/watch?v=Jydr6UUYs2U&list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
 
 [Video: Learn Elixir in one video](https://www.youtube.com/watch?v=pBNOavRoNL0)
 
