@@ -501,6 +501,8 @@ Brainfuck is a fun and esoteric language that involves using a very minimal amou
 
 [Website: Online Brainfuck compiler](https://repl.it/languages/brainfuck)
  
+[Website: Visual brainfuck](https://fatiherikli.github.io/brainfuck-visualizer/)
+
 # General computer science
 
 ### Data structures
