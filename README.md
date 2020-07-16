@@ -3,7 +3,7 @@ It's time to branch out your skills!
 Check out these *exclusviely free* courses :)
 
 Not sure what to learn?
-Click [here]() to find out what is best for you!
+Click [here](https://www.bestprogramminglanguagefor.me) to find out what is best for you!
 
 # Index
 
@@ -505,11 +505,34 @@ Brainfuck is a fun and esoteric language that involves using a very minimal amou
 
 # General computer science
 
+### Basics of programming
+
+[Video: Introduction to programming](https://www.youtube.com/watch?v=zOjov-2OZ0E)
+
 ### Data structures
+
+[Video series: Data structures and algorithms in Javascript](https://www.youtube.com/watch?v=Gj5qBheGOEo&list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
+
+[Video: Data structures easy to advanced course](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
+[Video: Data structures and algorithms in Javascript](https://www.youtube.com/watch?v=t2CEgPsws3U)
+
 ### Terminology
+
+[Video: Computer science terminology](https://www.youtube.com/watch?v=LtoBGQPuu1c)
+
 ### Graph theory
+
+[Video: Graph theory tutorial from a google tutorial](https://www.youtube.com/watch?v=09_LlHjoEiY)
+
 ### Mathematics for programmers
-### Statistics
+
+[Video: Maths for programmers](https://www.youtube.com/watch?v=2SpuBqvNjHI)
+
+[Video: Statistics - A full university course on data science basics in 8 hours](https://www.youtube.com/watch?v=xxpc-HPKN28)
+
+[Video: Big-O notation](https://www.youtube.com/watch?v=Ee0HzlnIYWQ)
+
 
 # Web development
 Web development is arguably one of the most popular and highly paid part of the industry, here are some of the tools that you can use to create your own applications or apply them at a job.
