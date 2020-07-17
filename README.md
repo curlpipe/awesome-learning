@@ -12,18 +12,17 @@ Click [here](https://www.bestprogramminglanguagefor.me) to find out what is best
 # Index
 Here is the index! Choose a field that you are interested in!
 
- - Languages 💬
- - General computer science 💻
- - Web development 🌐
- - Machine learning 🧠
- - Game programming 🎮
- - Mobile development 📱
- - Desktop applications 🖥
- - Code management 🛠
- - Ethical hacking ⌨
- - Databases and Query languages 💾
- - Esoteric languages 😈
- - Misc 🤔
+ - [Languages](https://github.com/curlpipe/awesome-learning#languages) 💬
+ - [General computer science](https://github.com/curlpipe/awesome-learning#general-computer-science) 💻
+ - [Web development](https://github.com/curlpipe/awesome-learning#web-development) 🌐
+ - [Machine learning](https://github.com/curlpipe/awesome-learning#machine-learning) 🧠
+ - [Game programming](https://github.com/curlpipe/awesome-learning#game-programming) 🎮
+ - [Mobile development](https://github.com/curlpipe/awesome-learning#mobile-development) 📱
+ - [Desktop applications](https://github.com/curlpipe/awesome-learning#desktop-applications) 🖥
+ - [Code management](https://github.com/curlpipe/awesome-learning#code-management) 🛠
+ - [Ethical hacking](https://github.com/curlpipe/awesome-learning#ethical-hacking) ⌨
+ - [Databases and Query languages](https://github.com/curlpipe/awesome-learning#databases-and-query-languages) 💾
+ - [Esoteric languages](https://github.com/curlpipe/awesome-learning#esoteric-languages) 😈
  
 # Languages
  Here is a list of every programming language you would probably ever want to learn, there may be more programming languages added in the future but there are already many of the most widely used and some more obscure ones too! Have fun learning in a variety of ways with videos, websites and books.
