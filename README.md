@@ -515,6 +515,8 @@ It is usually a good idea to get to grips with the basics of computer science as
 
 [Video: Introduction to programming](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 
+[Book: Algorithms notes for prefossionals](https://goalkicker.com/AlgorithmsBook/AlgorithmsNotesForProfessionals.pdf)
+
 ### Data structures
 
 [Video series: Data structures and algorithms in Javascript](https://www.youtube.com/watch?v=Gj5qBheGOEo&list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
@@ -666,7 +668,7 @@ Django is a python-based web framework for creating web applications, similar to
 
 [Video: Django crash course](https://www.youtube.com/watch?v=e1IyzVyrLSU) 
 
-[Video: Build a e-commerce app in Django]((https://www.youtube.com/watch?v=YZvRrldjf1Y)
+[Video: Build a e-commerce app in Django](https://www.youtube.com/watch?v=YZvRrldjf1Y)
 
 [Video: Django user authentucation](https://www.youtube.com/watch?v=tUqUdu0Sjyc)
 
@@ -817,26 +819,68 @@ Machine learning a is a relatively new field and is also very popular. You can b
 ### General machine learning
 Learn the basic concepts of machine learning.
 
+[Video: How deep neural networks work](https://www.youtube.com/watch?v=dPWYUELwIdM)
+
+[Video: Reinforcement learning course](https://www.youtube.com/watch?v=ELE2_Mftqoc)
+
+[Video: Natural language processing tutorial](https://www.youtube.com/watch?v=X2vAabgKiuM)
+
+[Video: Connect 4 API in Python](https://www.youtube.com/watch?v=8392NJjj8s0)
+
+[Video: Theory of neural networks - deep learning without frameworks](https://www.youtube.com/watch?v=u7n9t1cBei8)
+
+[Video: Deep reinforcement learning in Python](https://www.youtube.com/watch?v=GJJc1t0rtSU)
+
+[Video: beat asteroids game using a neural network](https://www.youtube.com/watch?v=2cGHkBeGpeU)
+
+[Video: Neural networks with Javascript](https://www.youtube.com/watch?v=6E6XecoTRVo)
+
+[Video series: Machine Learning with Python](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
 ### Tensorflow
 Learn Google's tensorflow to aid with machine learning projects.
 
+[Video: Tensorflow 2.0 in 7 hours](https://www.youtube.com/watch?v=tPYj3fFJGjk)
+
+[Video: Learn Tensorflow.js](https://www.youtube.com/watch?v=EoYfa6mYOG4)
+
+[Video: Tensorflow 2.0 crash course](https://www.youtube.com/watch?v=6g4O5UOH304)
+
+[Video: Natural language processing with TensorFlow](https://www.youtube.com/watch?v=B2q5cRJvqI8)
 
 ### Scikit-learn
 A brilliant machine learning library for Python.
 
+[VIdeo: Scikit-Learn course](https://www.youtube.com/watch?v=pqNCD_5r0IU)
+
+[Video series: Sklearn tutorials](https://www.youtube.com/watch?v=Lfz1qheTXOE&list=PLoY9f-5DCBln7ZsL4n9tFgGS0BXz5gXXR)
 
 ### Keras
 Write neural networks in python.
 
+[Video series: Deep learning with Python, TensorFlow and Keras](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXNk)
 
 ### Pytorch
 Facebook's deep learning library used for applications such as computer vision and natural language processing.
 
+[Video: PyTorch for deep learning full course](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
+
+[Video series: Deep Lenaring with PyTorch live course](https://www.youtube.com/watch?v=vo_fUOk-IKk&list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa)
+
+[Video: Applied deep learning with PyTorch](https://www.youtube.com/watch?v=CNuI8OWsppg)
 
 ### Numpy
 Manage statistics and numbers in Numpy for Python.
 
+[Video: NumPy tutorial for beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+
+[Video: Numpy in 5 minutes](https://www.youtube.com/watch?v=xECXZ3tyONo)
+
+[Video: Complete NumPy tutorial](https://www.youtube.com/watch?v=GB9ByFAIAH4)
+
+[Video: Data analysis with Python - Full course in Numpy, Pandas, Matplotlib and Seaborn](https://www.youtube.com/watch?v=r-uOLxNrNk8)
+
+[Video: Python for data science from scratch](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
 
 # Game programming
 Arguably what brings a lot of recreational programmers to programming is the idea of creating their very own game! Luckily, most of the hard work has been done already and almost anybody can create a game, both 3d and 2d! Here are some engines and libraries to help you build a game!
@@ -844,26 +888,80 @@ Arguably what brings a lot of recreational programmers to programming is the ide
 ## Unity
 Unity is a game engine developed that can be used to build 3d and 2d games and can be deployed to mobile, desktop, VR and the web.
 
+[VIdeo: Unity FPS Survival game tutorial - first person shooter](https://www.youtube.com/watch?v=Sqb-Ue7wpsI)
+
+[VIdeo: Unity Beat Em Up fight game](https://www.youtube.com/watch?v=gcF66q-UPCs)
+
+[VIdeo: Unity for beginners - Brick breaker game](https://www.youtube.com/watch?v=NWG8vO02oj4)
+
+[VIdeo: Unity game dev - Infinite runner](https://www.youtube.com/watch?v=gE9bjYpUrNY)
+
+[VIdeo: Unity hyper casual game](https://www.youtube.com/watch?v=kRGQJqHHwXA)
+
+[Video: 3D snake game in unity](https://www.youtube.com/watch?v=8ztq9fQT6Kc)
 
 ## Unreal engine
-Unreal Engine is a game engine developed by Epic Games and is the most advanced real-time 3d game engines.
+Unreal Engine is a game engine developed by Epic Games and is the most advanced real-time 3d game engine.
 
+[Video: Learn Unreal Engine with C++ full course for beginners](https://www.youtube.com/watch?v=LsNW4FPHuZE)
+
+[Video: 2.5D platformer in Unreal engine](https://www.youtube.com/watch?v=9Fd9hw329fY)
+
+[Video: Learn Unreal Engine C++ in 1 hour](https://www.youtube.com/watch?v=nVm-DYdAsts)
 
 ## Godot
 Godot is a 2D and 3D cross platform game engine. It was initially developed for compaines in Latin America but can now create games for PC, mobile and web platforms.
 
+[Video: Godot game engine tutorial - 2D platformer game](https://www.youtube.com/watch?v=fQXKjmCDkIA)
+
+[Video: Learn godot in 50 minutes](https://www.youtube.com/watch?v=QftpPI5iYrY)
+
+[Video series: Creating a simple 3D game in godot](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ)
+
+[Video: Creating 3D levels in godot](https://www.youtube.com/watch?v=49awsu1VJbo)
+
+[Video: Making an Action RPG in Godot](https://www.youtube.com/watch?v=mAbG8Oi-SvQ)
 
 ## Pygame
 Pygame is a very simple library in Python for creating 2D games, it is the best place to start as a game developer and can be used to make very interactive and usable games.
 
+[Video: Learn pygame in 2 hours](https://www.youtube.com/watch?v=FfWpgLFMI7w&t=3s)
 
-## Phaser
+[Video: Learn Python by building 5 games](https://www.youtube.com/watch?v=XGf2GcyHPhc)
+
+[Video: Build tetris with Pygame](https://www.youtube.com/watch?v=zfvxp7PgQ6c)
+
+[Video: Pygame snake tutorial](https://www.youtube.com/watch?v=CD4qAhfFuLo)
+
+[Video: Online multiplayer game development](https://www.youtube.com/watch?v=McoDjOCb2Zo)
+
+[Video: Connect four in pygame](https://www.youtube.com/watch?v=XpYz-q1lxu8)
+
+[Video: Python Pong tutorial](https://www.youtube.com/watch?v=C6jJg9Zan7w)
+
+## Phaser / Vanilla Javascript
 Phaser is similar to Pygame and can be used to create 2D games that run in a website using Javascript.
 
+[Video: Create a platformer game](https://www.youtube.com/watch?v=w-OKdSHRlfA)
 
-## Piston
-Piston is similar to Pygame however it is for Rust and is considerably faster. You can use Piston to make very good games and is great if you want to write games that are perhaps a bit more professional. You can make both 3D and 2D games in it however it is not as powerful as an engine such as Unreal, Unity or Godot.
+[Video: Learn Javascript by coding Tetris](https://www.youtube.com/watch?v=rAUn1Lom6dw)
 
+[Video: How to make a phaserJS game in 10 minutes](https://www.youtube.com/watch?v=88DS3Z8nOdY)
+
+[Website: Codecademy's free PhaserJS course](https://www.codecademy.com/learn/learn-phaser)
+
+## Piston / Amethyst
+Piston is similar to Pygame however it is for Rust and is considerably faster. You can use Piston and Amethyst to make very good games and is great if you want to write games that are perhaps a bit more professional. You can make both 3D and 2D games with them however it is not as powerful as an engine such as Unreal, Unity or Godot.
+
+[Video: Pong game in piston](https://www.youtube.com/watch?v=-JIlCYbpNnI)
+
+[Video: Lava lamp in piston](https://www.youtube.com/watch?v=6erSNPToziw)
+
+[Video: Pistonics games programming in Rust](https://www.youtube.com/playlist?list=PLMHbQxe1e9MlsYw7WIQmqJusZbCkMl6dd)
+
+[Book: Creating Pong in Amethyst](https://book.amethyst.rs/stable/pong-tutorial.html)
+
+[Book: Amethyst tutorial](https://book.amethyst.rs/stable/)
 
 # Mobile development
 Mobile phones are everywhere and the majority of people on planet earth use them. Many companies have apps, many independent organisations have apps and it has become a critical and important industry to be involved in.
@@ -871,22 +969,45 @@ Mobile phones are everywhere and the majority of people on planet earth use them
 ## Flutter
 Flutter is an incredibly useful platform to build both Android and iOS apps that run quickly. It was written by Google and uses Dart, a language with syntax similar to Javascript. Flutter is an alterantive to writing different applications for different platforms.
 
+[Video series: Flutter for beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+
+[Video series: Flutter tutorials](https://www.youtube.com/watch?v=b2fgMCeSNpY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd)
+
+[Video series: Flutter crash course](https://www.youtube.com/watch?v=1gDhl4leEzA)
+
+[Video: Flutter in 2 hours](https://www.youtube.com/watch?v=pTJJsmejUOQ&t=230s)
 
 ## Android
 Using Android Studio and Java or Kotlin to create native Android apps is perhaps the de-facto way of doing it however you can't write apps for iOS using this.
 
+[Video: Comprehensive android app development](https://www.youtube.com/watch?v=fis26HvvDII)
+
+[Video: Android full course in 9 hours](https://www.youtube.com/watch?v=aS__9RbCyHg)
+
+[Video: Android development with Kotlin](https://www.youtube.com/watch?v=Iz08OTTjR04)
+
+[Video: Build a WhatsApp clone](https://www.youtube.com/watch?v=988UZFB0heA)
 
 ## Ionic
 Ionic is a framework that allows the creation of applications on both Android and iOS. It uses Javascript. You can optionally use React, Angular or Vue for your mobile applications too.
 
+[Video: Ionic full tutorialin 3 hours](https://www.youtube.com/watch?v=AvbuIRg8_Jg)
 
 ## React native
 React native is a mobile application framework that can be used to develop apps that run on both Android and iOS using Javascript.
 
+[Video: React native tutorial for beginners](https://www.youtube.com/watch?v=0-S5a0eXPoc)
+
+[Video: React native crash course](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
+
+[Video series: React native tutorial for beginners](https://www.youtube.com/watch?v=ur6I5m2nTvk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
 
 ## iOS
 If you plan to write your applications purely for iOS, you can use xcode and swift to write them. However, you will need an Apple device in order to develop for the iPhone, if you don't have an Apple device and still want to build applications for this platform then try using alternative frameworks in this list.
 
+[Video: Your first iOS app](https://www.youtube.com/watch?v=09TeUXjzpKs)
+
+[Video: iOS app development tutorial](https://www.youtube.com/watch?v=bUQz9ZWjsvc)
 
 # Desktop applications
 Desktop applications are applications that the user can download and run on their computer. It can be anything from a file manager to a music player, its up to you! Here are a few different frameworks with varying difficulty that allow you to build your very own desktop application that you can show off to your friends and family!
@@ -894,19 +1015,44 @@ Desktop applications are applications that the user can download and run on thei
 ## Qt
 Qt is a widget toolkit for creating graphical user interfaces and cross-platform applications that run on various platforms. It allows the developer to write native application with native capabilities and performance which many other frameworks do not offer.
 
+[Video: Qt and C++ Tutorial, make a notepad app](https://www.youtube.com/watch?v=I96uPDifZ1w)
+
+[Video series: Qt and C++ GUI tutorial](https://www.youtube.com/watch?v=8opfd5aYkq8&list=PLS1QulWo1RIZjrD_OLju84cUaUlLRe5jQ)
+
+[Video series: Python and PyQt5 tutorial](https://www.youtube.com/watch?v=Vde5SH8e1OQ&list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)
+
+[Video series: PyQt5 tutorial for application development](https://www.youtube.com/watch?v=GQoadIcFj7Y&list=PL7PrmaVL3_5fwmJJf00EDqHyn17bhu7AE)
 
 ## GTK
 GTK is a framework that is similar to Qt and provides native performance and capabilities. It is entirely free to use and one of the most popular frameworks for building applications on Linux.
 
+[Video: GTK+ Tutorials](https://www.youtube.com/watch?v=6dstft52Rbs&list=PL6A4216D6C8E00CFC)
+
+[Video series: Python GUI with GTK+ 3](https://www.youtube.com/watch?v=0O11oEp7QYw&list=PL6gx4Cwl9DGBBnHFDEANbv9q8T4CONGZE)
+
+[Video series: GTK 3 with C and Glade](https://www.youtube.com/watch?v=tcUvJIiw6fI&list=PLaybP4QvyRH1obigtMQwhB2DWhPKg32_T)
 
 ## ElectronJS
 ElectronJS is a platform that allows HTML, CSS and Javascript code to be run on the desktop, allowing access to the file system. Despite being infamous for producing very slow and resource heavy applications, it is one of the most popular ways to get web technologies on the desktop.
 
+[Video series: ElectronJS tutorials](https://www.youtube.com/watch?v=tqBi_Tou6wQ&list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW)
+
+[Video: Build an electron app in under 1 hour](https://www.youtube.com/watch?v=kN1Czs0m1SU)
+
+[Video: An intro to electron ](https://www.youtube.com/watch?v=mr9Mtm_TRpw)
+
+[Video series: Electron Tutorials](https://www.youtube.com/watch?v=SetziJyL8Yg&list=PLYxzS__5yYQmocPoLUiEAfD1cJNjhdQar)
 
 ## Tkinter
 Tkinter is arguably the simplest framework and a brilliant place to start developing desktop applications. Tkinter is for Python a beginner can add a front end to their Python projects with ease.
 
+[Video: Learn Tkinter in 20 minutes](https://www.youtube.com/watch?v=_lSNIrR1nZU)
 
+[Video: Tkinter in 5 hours](https://www.youtube.com/watch?v=YXPyB4XeYLA)
+
+[Video: How to program a GUI application](https://www.youtube.com/watch?v=D8-snVfekto)
+
+[Video: Build 2048 in 20 minutes](https://www.youtube.com/watch?v=b4XP2IcI-Bg)
 
 # Code management
 Code management is vital in every area of the industry. It is expected if you are working in a programming job that you at least know Git. Not to worry, there are plenty of cool tutorials and guides and websites to aid you in your journey to allow yourself to be employed, work with other programmers and contribute to some of your favourite software!
@@ -914,14 +1060,43 @@ Code management is vital in every area of the industry. It is expected if you ar
 ## Docker
 Docker is a way to distribute software in containers which are isolated from one another and have their own software, libraries and configuration files. They are great for setting up a testing environment or for isolating different instances such as development and staging.
 
+[Video: Full Docker course in 2 hours](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+
+[Video: Learn Docker in 1 hour](https://www.youtube.com/watch?v=i7ABlHngi1Q)
+
+[Video: Docker on Raspberry Pi 4](https://www.youtube.com/watch?v=nBwJm0onzeo)
+
+[Video: What is Docker and how to use it to save money](https://www.youtube.com/watch?v=IbUXb4pQbPY)
 
 ## Git
 Git is a version control system (VCS) that allows the programmer to keep track of his work when updating it. It provides statistics and allows the programmer to easily rollback in case of any issues. It also allows other developers to work on the project at the same time. The majority of software uses Git and it is a vital skill.
 
+[Video: Git & Github crash course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+[VIdeo: Learn git in 15 minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
+
+[Video: Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
+
+[Video: Git and Github for beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
+[Video: Git explained in 100 seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
+
+[Book: Git notes for professionals](https://goalkicker.com/GitBook/GitNotesForProfessionals.pdf)
 
 ## AWS
 AWS or Amazon Web Services is an Amazon subsidiary that provides cloud computing platforms and APIs to businesses, individuals and governments. They are great for hosting and running applications without needing to worry about maintainence, security and efficiency of hardware.
 
+[Video: What is AWS?](https://www.youtube.com/watch?v=a9__D53WsUs)
+
+[Video: Getting started with AWS](https://www.youtube.com/watch?v=ubCNZRNjhyo)
+
+[Video: AWS tutorial in 10 minutes](https://www.youtube.com/watch?v=r4YIdn2eTm4)
+
+[Video: AWS cloud practitioner training](https://www.youtube.com/watch?v=3hLmDS179YE)
+
+[Video: AWS developer Associate training](https://www.youtube.com/watch?v=RrKRN9zRBWs)
+
+[Video: AWS solutions architect](https://www.youtube.com/watch?v=Ia-UEYYR44s)
 
 # Ethical hacking
 Many companies take security very seriously and a breach of security and data leak can lead to a ton of lawsuits and legal, ethical and moral problems. Companies hire ethical hackers and pentesters to test the resilience of their applications to see if they can find a way in and help make the companies applications indestructible and unhackable! Learn the ways in these simple guides below.
@@ -929,18 +1104,32 @@ Many companies take security very seriously and a breach of security and data le
 ## General ethical hacking
 Learn the basics of ethical hacking.
 
+[Video: Ethical hacking 10 hours](https://www.youtube.com/watch?v=dz7Ntp7KQGA)
+
+[Video: Create a keylogger with Python](https://www.youtube.com/watch?v=TbMKwl11itQ)
+
+[Video: Gophish tutorial](https://www.youtube.com/watch?v=S6S5JF6Gou0)
 
 ## Linux
 Linux is an operating system just like macOS or Windows that can be easily used to program on, pentest on and do pretty much anything. It is a solid alternative to Windows and allows people who love customisation and knowing a lot about their computer to tweak and program to their hearts content. It is also faster and more secure and private than Windows. It also is more or less immune to computer viruses.
 
+[Video: Linux for ethical hackers](https://www.youtube.com/watch?v=lZAoFs75_cs)
 
 ## Pentesting
 Pentensting or Penetration Testing is a term used to define the act of testing the security and resilience of a system. Pentesting doesn't require a knowledge of programming or software, they just need to know the areas useful to security.
 
+[Video: Penetration testing full course](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
+
+[Video: Penetration testing 101](https://www.youtube.com/watch?v=2_lswM1S264)
+
+[Video: Python for penetration testing](https://www.youtube.com/playlist?list=PLBf0hzazHTGM_dncTqO9l-0zUQYP0nNPU)
 
 ## Talks and lectures
 Here are some talks and lectures on ethical hacking and pentesting to see how it can be used and examples of where it has been used. Including in non-ethical ways.
 
+[Video: Why Ethical hacking is so important in the 21st century economy](https://www.youtube.com/watch?v=fsC7mAtiGHs)
+
+[Video: Watch this hacker break into a company](https://www.youtube.com/watch?v=PWVN3Rq4gzw)
 
 # Databases and Query languages
 Databases are arguably one of the most boring parts of programming. Having to store data in the correct way and in a way that is fast and can be accessed without getting hacked is pretty difficult. Luckily there are plenty of tutorials and guides that teach you how to maintain, structure, manage and use a database in your applications!
@@ -948,26 +1137,74 @@ Databases are arguably one of the most boring parts of programming. Having to st
 ## Database design
 Learn the best way to structure a database to keep it clean and tidy and easy to maintain.
 
+[Video: Database design tutorial](https://www.youtube.com/watch?v=ztHopE5Wnpc)
 
 ## SQL
 Learn the most common query language and how to use it to manage a database.
 
+[Video: SQL in 4 hours](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+
+[Video: SQL full course in 4 hours](https://www.youtube.com/watch?v=BPHAr4QGGVE)
+
+[Website: Codecademy's free SQL course](https://www.codecademy.com/learn/learn-sql)
+
+[Book: SQL notes for professionals](https://goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf)
+
+## MySQL
+MySQL is a relational database management system.
+
+[Book: MySQL notes for prefossionals/](https://goalkicker.com/MySQLBook/MySQLNotesForProfessionals.pdf)
 
 ## PostgreSQL
 A free relational database management system. It is a modern and fast way to store data.
 
+[Video: PostgreSQL in 4 hours](https://www.youtube.com/watch?v=qw--VYLpxG4)
+
+[Book: PostgreSQL notes for professionals](https://goalkicker.com/PostgreSQLBook/PostgreSQLNotesForProfessionals.pdf)
 
 ## MongoDB
 MongoDB is a document-oriented database program that doesn't use SQL. It is JSON-like and is one of the most popular NoSQL databases.
 
+[Video: MongoDB full tutorial](https://www.youtube.com/watch?v=4yqu8YF29cU)
+
+[Video: MERN stack in 2 hours](https://www.youtube.com/watch?v=7CqJlxBYj-M)
+
+[Video: MongoDB with Python crash course](https://www.youtube.com/watch?v=E-1xI85Zog8)
+
+[Video: Building a RESTful API using Node, Express and MongoDB](https://www.youtube.com/watch?v=o3ka5fYysBM)
+
+[Video: MongoDB crash course](https://www.youtube.com/watch?v=-56x56UppqQ)
+
+[Book: MongoDB notes for professionals](https://goalkicker.com/MongoDBBook/MongoDBNotesForProfessionals.pdf)
+
+## GraphQL
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with existing data.
+
+[Video: GraphQL Novice to Expert](https://www.youtube.com/watch?v=ed8SzALpx1Q)
+
+[Video: Better APIs with GraphQL](https://www.youtube.com/watch?v=A5GvnU1JxdQ)
+
+[Video: GraphQL server intermediate tutorial](https://www.youtube.com/watch?v=-iwjiiCGiO0)
 
 ## SQLite
 SQLite is a relational database management system and is embedded into an end program instead of being a client-server database engine. 
 
+[Video: Python SQLite full course](https://www.youtube.com/watch?v=byHcYRpMgI4)
+
+[Video: SQLite 3 in python](https://www.youtube.com/watch?v=pd-0G0MigUA)
 
 ## Firebase
 Firebase is a mobile and web application development platform used to handle data. It is currently owned and maintained by Google and provides a very easy way of creating quick web applications without needing to worry about hosting or databases.
 
+[Video: Full stack react & firebase tutorial](https://www.youtube.com/watch?v=m_u6P5k0vP0)
+
+[Video: Build an evernote clone with react and firebase](https://www.youtube.com/watch?v=I250xdtUvy8)
+
+[Video: Build a todoist clone with react and firebase](https://www.youtube.com/watch?v=hT3j87FMR6M)
+
+[Video: Vue.js & Firebase tutorial realtime chat](https://www.youtube.com/watch?v=ifOzAyR1cG4)
+
+[Video: Firebase basics](https://www.youtube.com/watch?v=9kRgVxULbag)
 
 # Esoteric languages
 Esoteric languages are fun little languages to play around with when you are bored or just want to try something different or quirky. From languages that only consist of a limited number of characters to languages that are 100% emojis, these languages are quite interesting and test the limits of what a programming language really is. You are highly unlikely to get a job in these languages but they are great fun!
@@ -975,7 +1212,21 @@ Esoteric languages are fun little languages to play around with when you are bor
 ## Brainfuck
 Brainfuck is an esoteric programming language that is notable for its extreme minimalism. It consists of only 8 commands and is not inteded for practical use.
 
+[Video: How Brainfuck works](https://www.youtube.com/watch?v=-3C200nCwpk)
+
+[Video: Hello world in Brainfuck](https://www.youtube.com/watch?v=0nY80P5QFgo)
+
+[Video: AI in Brainfuck](https://www.youtube.com/watch?v=qK0vmuQib8Y)
+
+[Video: Brainfuck programming tutorial](https://www.youtube.com/watch?v=G-tuXeMyb58)
+
+[Video: Complete Brainfuck tutorial](https://www.youtube.com/watch?v=7C4KOv3mLHc)
+
+[Website: Online Brainfuck compiler](https://repl.it/languages/brainfuck)
+ 
+[Website: Visual brainfuck](https://fatiherikli.github.io/brainfuck-visualizer/)
 
 ## Emojicode
 Emojicode is a language that uses emojis for their syntax. It is an esoteric language but claims to be a full blown language.
 
+[Website: Official emojicode documentation](https://www.emojicode.org/docs/guides/compile-and-run.html)
