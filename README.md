@@ -717,7 +717,7 @@ Flask is a python web framework for building web applications.
 [Video: Build a social network in flask](https://www.youtube.com/watch?v=-FWuNnCe73g)
 
 ## Symfony
-Symfony is a PHP web framework and a set of reusable PHP components nad libraries.
+Symfony is a PHP web framework and a set of reusable PHP components and libraries.
 
 [Video: Symfony in 3 hours](https://www.youtube.com/watch?v=Bo0guUbL5uo)
 
