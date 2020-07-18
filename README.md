@@ -852,7 +852,7 @@ Learn Google's tensorflow to aid with machine learning projects.
 ### Scikit-learn
 A brilliant machine learning library for Python.
 
-[VIdeo: Scikit-Learn course](https://www.youtube.com/watch?v=pqNCD_5r0IU)
+[Video: Scikit-Learn course](https://www.youtube.com/watch?v=pqNCD_5r0IU)
 
 [Video series: Sklearn tutorials](https://www.youtube.com/watch?v=Lfz1qheTXOE&list=PLoY9f-5DCBln7ZsL4n9tFgGS0BXz5gXXR)
 
@@ -889,15 +889,15 @@ Arguably what brings a lot of recreational programmers to programming is the ide
 ## Unity
 Unity is a game engine developed that can be used to build 3d and 2d games and can be deployed to mobile, desktop, VR and the web.
 
-[VIdeo: Unity FPS Survival game tutorial - first person shooter](https://www.youtube.com/watch?v=Sqb-Ue7wpsI)
+[Video: Unity FPS Survival game tutorial - first person shooter](https://www.youtube.com/watch?v=Sqb-Ue7wpsI)
 
-[VIdeo: Unity Beat Em Up fight game](https://www.youtube.com/watch?v=gcF66q-UPCs)
+[Video: Unity Beat Em Up fight game](https://www.youtube.com/watch?v=gcF66q-UPCs)
 
-[VIdeo: Unity for beginners - Brick breaker game](https://www.youtube.com/watch?v=NWG8vO02oj4)
+[Video: Unity for beginners - Brick breaker game](https://www.youtube.com/watch?v=NWG8vO02oj4)
 
-[VIdeo: Unity game dev - Infinite runner](https://www.youtube.com/watch?v=gE9bjYpUrNY)
+[Video: Unity game dev - Infinite runner](https://www.youtube.com/watch?v=gE9bjYpUrNY)
 
-[VIdeo: Unity hyper casual game](https://www.youtube.com/watch?v=kRGQJqHHwXA)
+[Video: Unity hyper casual game](https://www.youtube.com/watch?v=kRGQJqHHwXA)
 
 [Video: 3D snake game in unity](https://www.youtube.com/watch?v=8ztq9fQT6Kc)
 
@@ -1074,7 +1074,7 @@ Git is a version control system (VCS) that allows the programmer to keep track o
 
 [Video: Git & Github crash course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
-[VIdeo: Learn git in 15 minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
+[Video: Learn git in 15 minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 
 [Video: Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
 
