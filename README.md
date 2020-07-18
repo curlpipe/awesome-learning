@@ -2,6 +2,8 @@
 It's time to branch out your skills!
 Check out these *exclusviely free* courses :)
 
+This took a while for me to make and I would really appreciate it if you starred this repository :D
+
 You can learn how computers work, learn any modern popular language to control a computer, learn any framework for their corresponding languages and subsequently build something awesome!
 
 I have tried to include tutorials that both teach the languages and frameworks but also included project walk throughs so that you can build something awesome straight from the get go, without getting lost and helping to apply the knowledge that you've just learnt.
@@ -1097,6 +1099,10 @@ AWS or Amazon Web Services is an Amazon subsidiary that provides cloud computing
 
 [Video: AWS solutions architect](https://www.youtube.com/watch?v=Ia-UEYYR44s)
 
+[Video: Complete Terraform tutorial in 2 hours](https://www.youtube.com/watch?v=SLB_c_ayRMo)
+
+[Video: Learn Terraform in 10 minutes](https://www.youtube.com/watch?v=UleogrJkZn0)
+
 # Ethical hacking
 Many companies take security very seriously and a breach of security and data leak can lead to a ton of lawsuits and legal, ethical and moral problems. Companies hire ethical hackers and pentesters to test the resilience of their applications to see if they can find a way in and help make the companies applications indestructible and unhackable! Learn the ways in these simple guides below.
 
@@ -1229,3 +1235,5 @@ Brainfuck is an esoteric programming language that is notable for its extreme mi
 Emojicode is a language that uses emojis for their syntax. It is an esoteric language but claims to be a full blown language.
 
 [Website: Official emojicode documentation](https://www.emojicode.org/docs/guides/compile-and-run.html)
+
+[Website: Codecademy's free emojicode course](https://www.codecademy.com/learn/learn-emojicode)
