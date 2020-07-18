@@ -326,6 +326,8 @@ Rust is an new and incredibly fast language written in 2010 that aims to be very
 
 [Video series: Learn and apply Rust](https://www.youtube.com/watch?v=EYqceb2AnkU&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
 
+[Website: Quick Tour of Rust](https://tourofrust.com)
+
 [Website: Refine skills and improve problem solving in Rust](https://www.codewars.com/?language=rust)
 
 [Website: Online rust compiler](https://repl.it/languages/rust)
