@@ -355,6 +355,8 @@ Dart is another Google language that is primarily used for apps on multiple plat
 
 [Website: Dart cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)
 
+[Book: PDF Dart cheatsheet](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.1c.pdf)
+
 ## Kotlin
 Kotlin is a language designed to interoperate fully with Java. It appears to be the most preferred language of app developers on the Android platform.
 
